@@ -1,0 +1,20 @@
+VIBELAB 101 — CARA MENJALANKAN
+
+Persyaratan:
+- Python 3 sudah tersedia.
+- Seluruh isi folder dist-python tetap berada dalam satu folder.
+
+Windows:
+1. Buka Command Prompt atau PowerShell pada folder ini.
+2. Jalankan: py serve.py
+3. Browser akan membuka http://127.0.0.1:8000/
+
+macOS atau Linux:
+1. Buka Terminal pada folder ini.
+2. Jalankan: python3 serve.py
+3. Browser akan membuka http://127.0.0.1:8000/
+
+Untuk menghentikan aplikasi, kembali ke Terminal lalu tekan Ctrl+C.
+
+Aplikasi dapat digunakan tanpa internet. Progres, PRD, dan Rules disimpan
+di browser pada perangkat yang digunakan.
